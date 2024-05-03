@@ -1,0 +1,16 @@
+names:
+- car
+- person
+- motorcycle
+- truck
+- bus
+- construction vehicle
+- uai
+- train
+- agricultural vehicle
+- uap
+- boat
+nc: 11
+path: ..
+train: C:\Users\ugurh\OneDrive\Masa�st�\part_1.v3i.voc\images
+val: C:\Users\ugurh\OneDrive\Masa�st�\part_1.v3i.voc\images
